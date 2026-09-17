@@ -1,0 +1,6 @@
+{
+  "name": "Employee Management System",
+  "description": "Full-stack employee management system with role-based access for Admins, HR Managers, and Employees to manage departments, attendance, payroll, leaves, and performance reviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
